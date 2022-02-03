@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Credit Risk Modelling
 - 🌱 I’m currently learning SQL and Tableau
 - 💬 Ask me about my projects
-- 📫 How to reach me: saha.deboky@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/deboky-saha/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Nerd
 
