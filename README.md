@@ -1,9 +1,6 @@
 ### Hi I am Deboky Saha 👋
 
-<!--
-**Deboky/Deboky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Credit Risk Modelling
 - 🌱 I’m currently learning SQL and Tableau
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Nerd
 
 Data Scientist| Programmer | Machine Learning Engineer | Data Analyst | MSc in Data Science @UoG
--->
+
