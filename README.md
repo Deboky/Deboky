@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning SQL and Tableau
 - 💬 Ask me about my projects
 - 📫 How to reach me: https://www.linkedin.com/in/deboky-saha/
+- 👉 Follow me on Medium: https://medium.com/@debokysaha 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Nerd
 
