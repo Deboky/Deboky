@@ -10,5 +10,5 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Nerd
 
-Data Scientist | Programmer | Machine Learning Engineer | Data Analyst | MSc in Data Science @UoG
+Data Scientist | Programmer | Machine Learning Engineer | Data Analyst | MSc in Data Science at the University of Greenwich
 
