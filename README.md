@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Credit Risk Modelling
-- 🌱 I’m currently learning SQL and Tableau
+- 🔭 I’m currently working on End-to-End ML project 
+- 🌱 I’m currently learning NLP 
 - 💬 Ask me about my projects
 - 📫 How to reach me: https://www.linkedin.com/in/deboky-saha/
 - 👉 Follow me on Medium: https://medium.com/@debokysaha 
