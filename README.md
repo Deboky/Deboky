@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **End-to-End ML project**
 
-- 🌱 I’m currently learning **ETL Process**
+- 🌱 I’m currently learning **NLP**
 
 - 📝 I regularly write articles on [https://medium.com/@debokysaha](https://medium.com/@debokysaha)
 
