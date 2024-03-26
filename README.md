@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I am Deboky Saha</h1>
-<h3 align="center">Junior Data Engineer | MSc in Data Science with Distinction at the University of Greenwich | Women in Tech</h3>
+<h3 align="center"> Data Engineer | MSc in Data Science with Distinction at the University of Greenwich | Women in Tech</h3>
 <img align="right" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/media/b1f35b3c0416b23663b86d0aea416cc5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deboky&label=Profile%20views&color=0e75b6&style=flat" alt="deboky" /> </p>
 
-- 🔭 I’m currently working on **End-to-End ML project**
+- 🔭 I’m currently working on **End-to-End ETL, ML project**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **LLMs, Devops**
 
 - 📝 I regularly write articles on [https://medium.com/@debokysaha](https://medium.com/@debokysaha)
 
